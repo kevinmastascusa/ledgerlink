@@ -1,0 +1,17 @@
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/bin/Debug/net7.0/LedgerLink.Data.deps.json
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/bin/Debug/net7.0/LedgerLink.Data.dll
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/bin/Debug/net7.0/LedgerLink.Data.pdb
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/bin/Debug/net7.0/LedgerLink.Core.dll
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/bin/Debug/net7.0/LedgerLink.Core.pdb
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/obj/Debug/net7.0/LedgerLink.Data.csproj.AssemblyReference.cache
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/obj/Debug/net7.0/LedgerLink.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/obj/Debug/net7.0/LedgerLink.Data.AssemblyInfoInputs.cache
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/obj/Debug/net7.0/LedgerLink.Data.AssemblyInfo.cs
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/obj/Debug/net7.0/LedgerLink.Data.csproj.CoreCompileInputs.cache
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/obj/Debug/net7.0/LedgerLink.Data.csproj.CopyComplete
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/obj/Debug/net7.0/LedgerLink.Data.dll
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/obj/Debug/net7.0/refint/LedgerLink.Data.dll
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/obj/Debug/net7.0/LedgerLink.Data.pdb
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/obj/Debug/net7.0/ref/LedgerLink.Data.dll
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/bin/Debug/net7.0/LedgerLink.Data.runtimeconfig.json
+/Users/kevinmastascusa/ledgerlink/ledgerlink/backend/LedgerLink.Data/obj/Debug/net7.0/LedgerLink.Data.genruntimeconfig.cache

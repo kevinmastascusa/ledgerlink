@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LedgerLink.API", "LedgerLink.API\LedgerLink.API.csproj", "{C7D9FF9B-47C7-4B94-B46D-4F50A32841D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LedgerLink.Core", "LedgerLink.Core\LedgerLink.Core.csproj", "{E156418E-D806-4E86-9076-05C60BB5E93E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LedgerLink.Data", "LedgerLink.Data\LedgerLink.Data.csproj", "{430E8795-3405-432D-9FE9-DC8CA3EC4316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LedgerLink.Tests", "LedgerLink.Tests\LedgerLink.Tests.csproj", "{09E1E67D-25EE-4FD9-8C22-0E880023A08F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7D9FF9B-47C7-4B94-B46D-4F50A32841D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D9FF9B-47C7-4B94-B46D-4F50A32841D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D9FF9B-47C7-4B94-B46D-4F50A32841D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D9FF9B-47C7-4B94-B46D-4F50A32841D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E156418E-D806-4E86-9076-05C60BB5E93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E156418E-D806-4E86-9076-05C60BB5E93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E156418E-D806-4E86-9076-05C60BB5E93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E156418E-D806-4E86-9076-05C60BB5E93E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{430E8795-3405-432D-9FE9-DC8CA3EC4316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430E8795-3405-432D-9FE9-DC8CA3EC4316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430E8795-3405-432D-9FE9-DC8CA3EC4316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430E8795-3405-432D-9FE9-DC8CA3EC4316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09E1E67D-25EE-4FD9-8C22-0E880023A08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E1E67D-25EE-4FD9-8C22-0E880023A08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E1E67D-25EE-4FD9-8C22-0E880023A08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E1E67D-25EE-4FD9-8C22-0E880023A08F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

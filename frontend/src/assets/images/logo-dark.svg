@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background shape -->
+  <rect x="2" y="2" width="46" height="46" rx="8" fill="#90CAF9" opacity="0.2"/>
+  
+  <!-- L symbol -->
+  <path d="M15 15h20v5h-15v15h-5V15z" fill="#90CAF9"/>
+  
+  <!-- Link symbol -->
+  <path d="M45 25c0-5.52 4.48-10 10-10h10c5.52 0 10 4.48 10 10s-4.48 10-10 10H55c-5.52 0-10-4.48-10-10z" fill="#90CAF9" opacity="0.2"/>
+  <path d="M55 30c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5z" fill="#90CAF9"/>
+  
+  <!-- Text -->
+  <text x="80" y="32" font-family="Arial" font-size="24" font-weight="bold" fill="#90CAF9">LedgerLink</text>
+</svg> 

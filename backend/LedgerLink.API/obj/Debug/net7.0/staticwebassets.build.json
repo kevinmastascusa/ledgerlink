@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bJVOEGXHfbj5pbWpK3j2Z+13vRFtcSg+eJXqFro8fcA=",
+  "Source": "LedgerLink.API",
+  "BasePath": "_content/LedgerLink.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
